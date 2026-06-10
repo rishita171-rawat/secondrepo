@@ -1,1 +1,1 @@
-# this is a locxal file # 
+# this is a local file # 
